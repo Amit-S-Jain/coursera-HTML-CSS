@@ -1,0 +1,18 @@
+.observation{
+	color: grey;
+	font-style:italic;
+	font-size: 26px;
+	font-weight: 60%;
+}
+
+p.class1{
+	color: red;
+}
+
+section>p{
+	color: skyblue;
+}
+
+article p{
+	color: navy;
+}
